@@ -9,3 +9,5 @@ prueba de taller de GitHub
 - b
 - c
 - d
+- e
+- f
